@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Welcome vignesh to react web pages to myname is good to all
+          Welcome all to my fraviout react app 
         </a>
       </header>
     </div>
