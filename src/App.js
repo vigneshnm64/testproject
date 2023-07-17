@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Welcome all to my fraviout react app which built by vignesh
+          Welcome all to frugal sintific
         </a>
       </header>
     </div>
